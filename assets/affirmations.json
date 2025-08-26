@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "text": "Affirmation 1"
+  },
+  {
+    "id": 2,
+    "text": "Affirmation 2"
+  },
+  {
+    "id": 3,
+    "text": "Affirmation 3"
+  },
+  {
+    "id": 4,
+    "text": "Affirmation 4"
+  },
+  {
+    "id": 5,
+    "text": "Affirmation 5"
+  },
+  {
+    "id": 6,
+    "text": "Affirmation 6"
+  },
+  {
+    "id": 7,
+    "text": "Affirmation 7"
+  },
+  {
+    "id": 8,
+    "text": "Affirmation 8"
+  },
+  {
+    "id": 9,
+    "text": "Affirmation 9"
+  },
+  {
+    "id": 10,
+    "text": "Affirmation 10"
+  },
+  {
+    "id": 11,
+    "text": "Affirmation 11"
+  },
+  {
+    "id": 12,
+    "text": "Affirmation 12"
+  },
+  {
+    "id": 13,
+    "text": "Affirmation 13"
+  },
+  {
+    "id": 14,
+    "text": "Affirmation 14"
+  },
+  {
+    "id": 15,
+    "text": "Affirmation 15"
+  },
+  {
+    "id": 16,
+    "text": "Affirmation 16"
+  },
+  {
+    "id": 17,
+    "text": "Affirmation 17"
+  },
+  {
+    "id": 18,
+    "text": "Affirmation 18"
+  },
+  {
+    "id": 19,
+    "text": "Affirmation 19"
+  },
+  {
+    "id": 20,
+    "text": "Affirmation 20"
+  },
+  {
+    "id": 21,
+    "text": "Affirmation 21"
+  },
+  {
+    "id": 22,
+    "text": "Affirmation 22"
+  },
+  {
+    "id": 23,
+    "text": "Affirmation 23"
+  },
+  {
+    "id": 24,
+    "text": "Affirmation 24"
+  },
+  {
+    "id": 25,
+    "text": "Affirmation 25"
+  },
+  {
+    "id": 26,
+    "text": "Affirmation 26"
+  },
+  {
+    "id": 27,
+    "text": "Affirmation 27"
+  },
+  {
+    "id": 28,
+    "text": "Affirmation 28"
+  },
+  {
+    "id": 29,
+    "text": "Affirmation 29"
+  },
+  {
+    "id": 30,
+    "text": "Affirmation 30"
+  },
+  {
+    "id": 31,
+    "text": "Affirmation 31"
+  },
+  {
+    "id": 32,
+    "text": "Affirmation 32"
+  },
+  {
+    "id": 33,
+    "text": "Affirmation 33"
+  },
+  {
+    "id": 34,
+    "text": "Affirmation 34"
+  },
+  {
+    "id": 35,
+    "text": "Affirmation 35"
+  },
+  {
+    "id": 36,
+    "text": "Affirmation 36"
+  },
+  {
+    "id": 37,
+    "text": "Affirmation 37"
+  },
+  {
+    "id": 38,
+    "text": "Affirmation 38"
+  },
+  {
+    "id": 39,
+    "text": "Affirmation 39"
+  },
+  {
+    "id": 40,
+    "text": "Affirmation 40"
+  },
+  {
+    "id": 41,
+    "text": "Affirmation 41"
+  },
+  {
+    "id": 42,
+    "text": "Affirmation 42"
+  },
+  {
+    "id": 43,
+    "text": "Affirmation 43"
+  },
+  {
+    "id": 44,
+    "text": "Affirmation 44"
+  },
+  {
+    "id": 45,
+    "text": "Affirmation 45"
+  },
+  {
+    "id": 46,
+    "text": "Affirmation 46"
+  },
+  {
+    "id": 47,
+    "text": "Affirmation 47"
+  },
+  {
+    "id": 48,
+    "text": "Affirmation 48"
+  },
+  {
+    "id": 49,
+    "text": "Affirmation 49"
+  },
+  {
+    "id": 50,
+    "text": "Affirmation 50"
+  },
+  {
+    "id": 51,
+    "text": "Affirmation 51"
+  },
+  {
+    "id": 52,
+    "text": "Affirmation 52"
+  },
+  {
+    "id": 53,
+    "text": "Affirmation 53"
+  },
+  {
+    "id": 54,
+    "text": "Affirmation 54"
+  },
+  {
+    "id": 55,
+    "text": "Affirmation 55"
+  },
+  {
+    "id": 56,
+    "text": "Affirmation 56"
+  },
+  {
+    "id": 57,
+    "text": "Affirmation 57"
+  },
+  {
+    "id": 58,
+    "text": "Affirmation 58"
+  },
+  {
+    "id": 59,
+    "text": "Affirmation 59"
+  },
+  {
+    "id": 60,
+    "text": "Affirmation 60"
+  },
+  {
+    "id": 61,
+    "text": "Affirmation 61"
+  },
+  {
+    "id": 62,
+    "text": "Affirmation 62"
+  },
+  {
+    "id": 63,
+    "text": "Affirmation 63"
+  },
+  {
+    "id": 64,
+    "text": "Affirmation 64"
+  },
+  {
+    "id": 65,
+    "text": "Affirmation 65"
+  },
+  {
+    "id": 66,
+    "text": "Affirmation 66"
+  },
+  {
+    "id": 67,
+    "text": "Affirmation 67"
+  },
+  {
+    "id": 68,
+    "text": "Affirmation 68"
+  },
+  {
+    "id": 69,
+    "text": "Affirmation 69"
+  },
+  {
+    "id": 70,
+    "text": "Affirmation 70"
+  },
+  {
+    "id": 71,
+    "text": "Affirmation 71"
+  },
+  {
+    "id": 72,
+    "text": "Affirmation 72"
+  },
+  {
+    "id": 73,
+    "text": "Affirmation 73"
+  },
+  {
+    "id": 74,
+    "text": "Affirmation 74"
+  },
+  {
+    "id": 75,
+    "text": "Affirmation 75"
+  },
+  {
+    "id": 76,
+    "text": "Affirmation 76"
+  },
+  {
+    "id": 77,
+    "text": "Affirmation 77"
+  },
+  {
+    "id": 78,
+    "text": "Affirmation 78"
+  },
+  {
+    "id": 79,
+    "text": "Affirmation 79"
+  },
+  {
+    "id": 80,
+    "text": "Affirmation 80"
+  },
+  {
+    "id": 81,
+    "text": "Affirmation 81"
+  },
+  {
+    "id": 82,
+    "text": "Affirmation 82"
+  },
+  {
+    "id": 83,
+    "text": "Affirmation 83"
+  },
+  {
+    "id": 84,
+    "text": "Affirmation 84"
+  },
+  {
+    "id": 85,
+    "text": "Affirmation 85"
+  },
+  {
+    "id": 86,
+    "text": "Affirmation 86"
+  },
+  {
+    "id": 87,
+    "text": "Affirmation 87"
+  },
+  {
+    "id": 88,
+    "text": "Affirmation 88"
+  },
+  {
+    "id": 89,
+    "text": "Affirmation 89"
+  },
+  {
+    "id": 90,
+    "text": "Affirmation 90"
+  },
+  {
+    "id": 91,
+    "text": "Affirmation 91"
+  },
+  {
+    "id": 92,
+    "text": "Affirmation 92"
+  },
+  {
+    "id": 93,
+    "text": "Affirmation 93"
+  },
+  {
+    "id": 94,
+    "text": "Affirmation 94"
+  },
+  {
+    "id": 95,
+    "text": "Affirmation 95"
+  },
+  {
+    "id": 96,
+    "text": "Affirmation 96"
+  },
+  {
+    "id": 97,
+    "text": "Affirmation 97"
+  },
+  {
+    "id": 98,
+    "text": "Affirmation 98"
+  },
+  {
+    "id": 99,
+    "text": "Affirmation 99"
+  },
+  {
+    "id": 100,
+    "text": "Affirmation 100"
+  },
+  {
+    "id": 101,
+    "text": "Affirmation 101"
+  },
+  {
+    "id": 102,
+    "text": "Affirmation 102"
+  },
+  {
+    "id": 103,
+    "text": "Affirmation 103"
+  },
+  {
+    "id": 104,
+    "text": "Affirmation 104"
+  },
+  {
+    "id": 105,
+    "text": "Affirmation 105"
+  },
+  {
+    "id": 106,
+    "text": "Affirmation 106"
+  },
+  {
+    "id": 107,
+    "text": "Affirmation 107"
+  },
+  {
+    "id": 108,
+    "text": "Affirmation 108"
+  },
+  {
+    "id": 109,
+    "text": "Affirmation 109"
+  },
+  {
+    "id": 110,
+    "text": "Affirmation 110"
+  },
+  {
+    "id": 111,
+    "text": "Affirmation 111"
+  },
+  {
+    "id": 112,
+    "text": "Affirmation 112"
+  },
+  {
+    "id": 113,
+    "text": "Affirmation 113"
+  },
+  {
+    "id": 114,
+    "text": "Affirmation 114"
+  },
+  {
+    "id": 115,
+    "text": "Affirmation 115"
+  },
+  {
+    "id": 116,
+    "text": "Affirmation 116"
+  },
+  {
+    "id": 117,
+    "text": "Affirmation 117"
+  },
+  {
+    "id": 118,
+    "text": "Affirmation 118"
+  },
+  {
+    "id": 119,
+    "text": "Affirmation 119"
+  },
+  {
+    "id": 120,
+    "text": "Affirmation 120"
+  },
+  {
+    "id": 121,
+    "text": "Affirmation 121"
+  },
+  {
+    "id": 122,
+    "text": "Affirmation 122"
+  },
+  {
+    "id": 123,
+    "text": "Affirmation 123"
+  },
+  {
+    "id": 124,
+    "text": "Affirmation 124"
+  },
+  {
+    "id": 125,
+    "text": "Affirmation 125"
+  },
+  {
+    "id": 126,
+    "text": "Affirmation 126"
+  },
+  {
+    "id": 127,
+    "text": "Affirmation 127"
+  },
+  {
+    "id": 128,
+    "text": "Affirmation 128"
+  },
+  {
+    "id": 129,
+    "text": "Affirmation 129"
+  },
+  {
+    "id": 130,
+    "text": "Affirmation 130"
+  },
+  {
+    "id": 131,
+    "text": "Affirmation 131"
+  },
+  {
+    "id": 132,
+    "text": "Affirmation 132"
+  },
+  {
+    "id": 133,
+    "text": "Affirmation 133"
+  },
+  {
+    "id": 134,
+    "text": "Affirmation 134"
+  },
+  {
+    "id": 135,
+    "text": "Affirmation 135"
+  },
+  {
+    "id": 136,
+    "text": "Affirmation 136"
+  },
+  {
+    "id": 137,
+    "text": "Affirmation 137"
+  },
+  {
+    "id": 138,
+    "text": "Affirmation 138"
+  },
+  {
+    "id": 139,
+    "text": "Affirmation 139"
+  },
+  {
+    "id": 140,
+    "text": "Affirmation 140"
+  },
+  {
+    "id": 141,
+    "text": "Affirmation 141"
+  },
+  {
+    "id": 142,
+    "text": "Affirmation 142"
+  },
+  {
+    "id": 143,
+    "text": "Affirmation 143"
+  },
+  {
+    "id": 144,
+    "text": "Affirmation 144"
+  },
+  {
+    "id": 145,
+    "text": "Affirmation 145"
+  },
+  {
+    "id": 146,
+    "text": "Affirmation 146"
+  },
+  {
+    "id": 147,
+    "text": "Affirmation 147"
+  },
+  {
+    "id": 148,
+    "text": "Affirmation 148"
+  },
+  {
+    "id": 149,
+    "text": "Affirmation 149"
+  },
+  {
+    "id": 150,
+    "text": "Affirmation 150"
+  },
+  {
+    "id": 151,
+    "text": "Affirmation 151"
+  },
+  {
+    "id": 152,
+    "text": "Affirmation 152"
+  },
+  {
+    "id": 153,
+    "text": "Affirmation 153"
+  },
+  {
+    "id": 154,
+    "text": "Affirmation 154"
+  },
+  {
+    "id": 155,
+    "text": "Affirmation 155"
+  },
+  {
+    "id": 156,
+    "text": "Affirmation 156"
+  },
+  {
+    "id": 157,
+    "text": "Affirmation 157"
+  },
+  {
+    "id": 158,
+    "text": "Affirmation 158"
+  },
+  {
+    "id": 159,
+    "text": "Affirmation 159"
+  },
+  {
+    "id": 160,
+    "text": "Affirmation 160"
+  },
+  {
+    "id": 161,
+    "text": "Affirmation 161"
+  },
+  {
+    "id": 162,
+    "text": "Affirmation 162"
+  },
+  {
+    "id": 163,
+    "text": "Affirmation 163"
+  },
+  {
+    "id": 164,
+    "text": "Affirmation 164"
+  },
+  {
+    "id": 165,
+    "text": "Affirmation 165"
+  },
+  {
+    "id": 166,
+    "text": "Affirmation 166"
+  },
+  {
+    "id": 167,
+    "text": "Affirmation 167"
+  },
+  {
+    "id": 168,
+    "text": "Affirmation 168"
+  },
+  {
+    "id": 169,
+    "text": "Affirmation 169"
+  },
+  {
+    "id": 170,
+    "text": "Affirmation 170"
+  },
+  {
+    "id": 171,
+    "text": "Affirmation 171"
+  },
+  {
+    "id": 172,
+    "text": "Affirmation 172"
+  },
+  {
+    "id": 173,
+    "text": "Affirmation 173"
+  },
+  {
+    "id": 174,
+    "text": "Affirmation 174"
+  },
+  {
+    "id": 175,
+    "text": "Affirmation 175"
+  },
+  {
+    "id": 176,
+    "text": "Affirmation 176"
+  },
+  {
+    "id": 177,
+    "text": "Affirmation 177"
+  },
+  {
+    "id": 178,
+    "text": "Affirmation 178"
+  },
+  {
+    "id": 179,
+    "text": "Affirmation 179"
+  },
+  {
+    "id": 180,
+    "text": "Affirmation 180"
+  },
+  {
+    "id": 181,
+    "text": "Affirmation 181"
+  },
+  {
+    "id": 182,
+    "text": "Affirmation 182"
+  },
+  {
+    "id": 183,
+    "text": "Affirmation 183"
+  },
+  {
+    "id": 184,
+    "text": "Affirmation 184"
+  },
+  {
+    "id": 185,
+    "text": "Affirmation 185"
+  },
+  {
+    "id": 186,
+    "text": "Affirmation 186"
+  },
+  {
+    "id": 187,
+    "text": "Affirmation 187"
+  },
+  {
+    "id": 188,
+    "text": "Affirmation 188"
+  },
+  {
+    "id": 189,
+    "text": "Affirmation 189"
+  },
+  {
+    "id": 190,
+    "text": "Affirmation 190"
+  },
+  {
+    "id": 191,
+    "text": "Affirmation 191"
+  },
+  {
+    "id": 192,
+    "text": "Affirmation 192"
+  },
+  {
+    "id": 193,
+    "text": "Affirmation 193"
+  },
+  {
+    "id": 194,
+    "text": "Affirmation 194"
+  },
+  {
+    "id": 195,
+    "text": "Affirmation 195"
+  },
+  {
+    "id": 196,
+    "text": "Affirmation 196"
+  },
+  {
+    "id": 197,
+    "text": "Affirmation 197"
+  },
+  {
+    "id": 198,
+    "text": "Affirmation 198"
+  },
+  {
+    "id": 199,
+    "text": "Affirmation 199"
+  },
+  {
+    "id": 200,
+    "text": "Affirmation 200"
+  },
+  {
+    "id": 201,
+    "text": "Affirmation 201"
+  },
+  {
+    "id": 202,
+    "text": "Affirmation 202"
+  },
+  {
+    "id": 203,
+    "text": "Affirmation 203"
+  },
+  {
+    "id": 204,
+    "text": "Affirmation 204"
+  },
+  {
+    "id": 205,
+    "text": "Affirmation 205"
+  },
+  {
+    "id": 206,
+    "text": "Affirmation 206"
+  },
+  {
+    "id": 207,
+    "text": "Affirmation 207"
+  },
+  {
+    "id": 208,
+    "text": "Affirmation 208"
+  },
+  {
+    "id": 209,
+    "text": "Affirmation 209"
+  },
+  {
+    "id": 210,
+    "text": "Affirmation 210"
+  },
+  {
+    "id": 211,
+    "text": "Affirmation 211"
+  },
+  {
+    "id": 212,
+    "text": "Affirmation 212"
+  },
+  {
+    "id": 213,
+    "text": "Affirmation 213"
+  },
+  {
+    "id": 214,
+    "text": "Affirmation 214"
+  },
+  {
+    "id": 215,
+    "text": "Affirmation 215"
+  },
+  {
+    "id": 216,
+    "text": "Affirmation 216"
+  },
+  {
+    "id": 217,
+    "text": "Affirmation 217"
+  },
+  {
+    "id": 218,
+    "text": "Affirmation 218"
+  },
+  {
+    "id": 219,
+    "text": "Affirmation 219"
+  },
+  {
+    "id": 220,
+    "text": "Affirmation 220"
+  },
+  {
+    "id": 221,
+    "text": "Affirmation 221"
+  },
+  {
+    "id": 222,
+    "text": "Affirmation 222"
+  },
+  {
+    "id": 223,
+    "text": "Affirmation 223"
+  },
+  {
+    "id": 224,
+    "text": "Affirmation 224"
+  },
+  {
+    "id": 225,
+    "text": "Affirmation 225"
+  },
+  {
+    "id": 226,
+    "text": "Affirmation 226"
+  },
+  {
+    "id": 227,
+    "text": "Affirmation 227"
+  },
+  {
+    "id": 228,
+    "text": "Affirmation 228"
+  },
+  {
+    "id": 229,
+    "text": "Affirmation 229"
+  },
+  {
+    "id": 230,
+    "text": "Affirmation 230"
+  },
+  {
+    "id": 231,
+    "text": "Affirmation 231"
+  },
+  {
+    "id": 232,
+    "text": "Affirmation 232"
+  },
+  {
+    "id": 233,
+    "text": "Affirmation 233"
+  },
+  {
+    "id": 234,
+    "text": "Affirmation 234"
+  },
+  {
+    "id": 235,
+    "text": "Affirmation 235"
+  },
+  {
+    "id": 236,
+    "text": "Affirmation 236"
+  },
+  {
+    "id": 237,
+    "text": "Affirmation 237"
+  },
+  {
+    "id": 238,
+    "text": "Affirmation 238"
+  },
+  {
+    "id": 239,
+    "text": "Affirmation 239"
+  },
+  {
+    "id": 240,
+    "text": "Affirmation 240"
+  },
+  {
+    "id": 241,
+    "text": "Affirmation 241"
+  },
+  {
+    "id": 242,
+    "text": "Affirmation 242"
+  },
+  {
+    "id": 243,
+    "text": "Affirmation 243"
+  },
+  {
+    "id": 244,
+    "text": "Affirmation 244"
+  },
+  {
+    "id": 245,
+    "text": "Affirmation 245"
+  },
+  {
+    "id": 246,
+    "text": "Affirmation 246"
+  },
+  {
+    "id": 247,
+    "text": "Affirmation 247"
+  },
+  {
+    "id": 248,
+    "text": "Affirmation 248"
+  },
+  {
+    "id": 249,
+    "text": "Affirmation 249"
+  },
+  {
+    "id": 250,
+    "text": "Affirmation 250"
+  },
+  {
+    "id": 251,
+    "text": "Affirmation 251"
+  },
+  {
+    "id": 252,
+    "text": "Affirmation 252"
+  },
+  {
+    "id": 253,
+    "text": "Affirmation 253"
+  },
+  {
+    "id": 254,
+    "text": "Affirmation 254"
+  },
+  {
+    "id": 255,
+    "text": "Affirmation 255"
+  },
+  {
+    "id": 256,
+    "text": "Affirmation 256"
+  },
+  {
+    "id": 257,
+    "text": "Affirmation 257"
+  },
+  {
+    "id": 258,
+    "text": "Affirmation 258"
+  },
+  {
+    "id": 259,
+    "text": "Affirmation 259"
+  },
+  {
+    "id": 260,
+    "text": "Affirmation 260"
+  },
+  {
+    "id": 261,
+    "text": "Affirmation 261"
+  },
+  {
+    "id": 262,
+    "text": "Affirmation 262"
+  },
+  {
+    "id": 263,
+    "text": "Affirmation 263"
+  },
+  {
+    "id": 264,
+    "text": "Affirmation 264"
+  },
+  {
+    "id": 265,
+    "text": "Affirmation 265"
+  },
+  {
+    "id": 266,
+    "text": "Affirmation 266"
+  },
+  {
+    "id": 267,
+    "text": "Affirmation 267"
+  },
+  {
+    "id": 268,
+    "text": "Affirmation 268"
+  },
+  {
+    "id": 269,
+    "text": "Affirmation 269"
+  },
+  {
+    "id": 270,
+    "text": "Affirmation 270"
+  },
+  {
+    "id": 271,
+    "text": "Affirmation 271"
+  },
+  {
+    "id": 272,
+    "text": "Affirmation 272"
+  },
+  {
+    "id": 273,
+    "text": "Affirmation 273"
+  },
+  {
+    "id": 274,
+    "text": "Affirmation 274"
+  },
+  {
+    "id": 275,
+    "text": "Affirmation 275"
+  },
+  {
+    "id": 276,
+    "text": "Affirmation 276"
+  },
+  {
+    "id": 277,
+    "text": "Affirmation 277"
+  },
+  {
+    "id": 278,
+    "text": "Affirmation 278"
+  },
+  {
+    "id": 279,
+    "text": "Affirmation 279"
+  },
+  {
+    "id": 280,
+    "text": "Affirmation 280"
+  },
+  {
+    "id": 281,
+    "text": "Affirmation 281"
+  },
+  {
+    "id": 282,
+    "text": "Affirmation 282"
+  },
+  {
+    "id": 283,
+    "text": "Affirmation 283"
+  },
+  {
+    "id": 284,
+    "text": "Affirmation 284"
+  },
+  {
+    "id": 285,
+    "text": "Affirmation 285"
+  },
+  {
+    "id": 286,
+    "text": "Affirmation 286"
+  },
+  {
+    "id": 287,
+    "text": "Affirmation 287"
+  },
+  {
+    "id": 288,
+    "text": "Affirmation 288"
+  },
+  {
+    "id": 289,
+    "text": "Affirmation 289"
+  },
+  {
+    "id": 290,
+    "text": "Affirmation 290"
+  },
+  {
+    "id": 291,
+    "text": "Affirmation 291"
+  },
+  {
+    "id": 292,
+    "text": "Affirmation 292"
+  },
+  {
+    "id": 293,
+    "text": "Affirmation 293"
+  },
+  {
+    "id": 294,
+    "text": "Affirmation 294"
+  },
+  {
+    "id": 295,
+    "text": "Affirmation 295"
+  },
+  {
+    "id": 296,
+    "text": "Affirmation 296"
+  },
+  {
+    "id": 297,
+    "text": "Affirmation 297"
+  },
+  {
+    "id": 298,
+    "text": "Affirmation 298"
+  },
+  {
+    "id": 299,
+    "text": "Affirmation 299"
+  },
+  {
+    "id": 300,
+    "text": "Affirmation 300"
+  },
+  {
+    "id": 301,
+    "text": "Affirmation 301"
+  },
+  {
+    "id": 302,
+    "text": "Affirmation 302"
+  },
+  {
+    "id": 303,
+    "text": "Affirmation 303"
+  },
+  {
+    "id": 304,
+    "text": "Affirmation 304"
+  },
+  {
+    "id": 305,
+    "text": "Affirmation 305"
+  },
+  {
+    "id": 306,
+    "text": "Affirmation 306"
+  },
+  {
+    "id": 307,
+    "text": "Affirmation 307"
+  },
+  {
+    "id": 308,
+    "text": "Affirmation 308"
+  },
+  {
+    "id": 309,
+    "text": "Affirmation 309"
+  },
+  {
+    "id": 310,
+    "text": "Affirmation 310"
+  },
+  {
+    "id": 311,
+    "text": "Affirmation 311"
+  },
+  {
+    "id": 312,
+    "text": "Affirmation 312"
+  },
+  {
+    "id": 313,
+    "text": "Affirmation 313"
+  },
+  {
+    "id": 314,
+    "text": "Affirmation 314"
+  },
+  {
+    "id": 315,
+    "text": "Affirmation 315"
+  },
+  {
+    "id": 316,
+    "text": "Affirmation 316"
+  },
+  {
+    "id": 317,
+    "text": "Affirmation 317"
+  },
+  {
+    "id": 318,
+    "text": "Affirmation 318"
+  },
+  {
+    "id": 319,
+    "text": "Affirmation 319"
+  },
+  {
+    "id": 320,
+    "text": "Affirmation 320"
+  },
+  {
+    "id": 321,
+    "text": "Affirmation 321"
+  },
+  {
+    "id": 322,
+    "text": "Affirmation 322"
+  },
+  {
+    "id": 323,
+    "text": "Affirmation 323"
+  },
+  {
+    "id": 324,
+    "text": "Affirmation 324"
+  },
+  {
+    "id": 325,
+    "text": "Affirmation 325"
+  },
+  {
+    "id": 326,
+    "text": "Affirmation 326"
+  },
+  {
+    "id": 327,
+    "text": "Affirmation 327"
+  },
+  {
+    "id": 328,
+    "text": "Affirmation 328"
+  },
+  {
+    "id": 329,
+    "text": "Affirmation 329"
+  },
+  {
+    "id": 330,
+    "text": "Affirmation 330"
+  },
+  {
+    "id": 331,
+    "text": "Affirmation 331"
+  },
+  {
+    "id": 332,
+    "text": "Affirmation 332"
+  },
+  {
+    "id": 333,
+    "text": "Affirmation 333"
+  },
+  {
+    "id": 334,
+    "text": "Affirmation 334"
+  },
+  {
+    "id": 335,
+    "text": "Affirmation 335"
+  },
+  {
+    "id": 336,
+    "text": "Affirmation 336"
+  },
+  {
+    "id": 337,
+    "text": "Affirmation 337"
+  },
+  {
+    "id": 338,
+    "text": "Affirmation 338"
+  },
+  {
+    "id": 339,
+    "text": "Affirmation 339"
+  },
+  {
+    "id": 340,
+    "text": "Affirmation 340"
+  },
+  {
+    "id": 341,
+    "text": "Affirmation 341"
+  },
+  {
+    "id": 342,
+    "text": "Affirmation 342"
+  },
+  {
+    "id": 343,
+    "text": "Affirmation 343"
+  },
+  {
+    "id": 344,
+    "text": "Affirmation 344"
+  },
+  {
+    "id": 345,
+    "text": "Affirmation 345"
+  },
+  {
+    "id": 346,
+    "text": "Affirmation 346"
+  },
+  {
+    "id": 347,
+    "text": "Affirmation 347"
+  },
+  {
+    "id": 348,
+    "text": "Affirmation 348"
+  },
+  {
+    "id": 349,
+    "text": "Affirmation 349"
+  },
+  {
+    "id": 350,
+    "text": "Affirmation 350"
+  },
+  {
+    "id": 351,
+    "text": "Affirmation 351"
+  },
+  {
+    "id": 352,
+    "text": "Affirmation 352"
+  },
+  {
+    "id": 353,
+    "text": "Affirmation 353"
+  },
+  {
+    "id": 354,
+    "text": "Affirmation 354"
+  },
+  {
+    "id": 355,
+    "text": "Affirmation 355"
+  },
+  {
+    "id": 356,
+    "text": "Affirmation 356"
+  },
+  {
+    "id": 357,
+    "text": "Affirmation 357"
+  },
+  {
+    "id": 358,
+    "text": "Affirmation 358"
+  },
+  {
+    "id": 359,
+    "text": "Affirmation 359"
+  },
+  {
+    "id": 360,
+    "text": "Affirmation 360"
+  },
+  {
+    "id": 361,
+    "text": "Affirmation 361"
+  },
+  {
+    "id": 362,
+    "text": "Affirmation 362"
+  },
+  {
+    "id": 363,
+    "text": "Affirmation 363"
+  },
+  {
+    "id": 364,
+    "text": "Affirmation 364"
+  },
+  {
+    "id": 365,
+    "text": "Affirmation 365"
+  },
+  {
+    "id": 366,
+    "text": "Affirmation 366"
+  },
+  {
+    "id": 367,
+    "text": "Affirmation 367"
+  },
+  {
+    "id": 368,
+    "text": "Affirmation 368"
+  },
+  {
+    "id": 369,
+    "text": "Affirmation 369"
+  },
+  {
+    "id": 370,
+    "text": "Affirmation 370"
+  },
+  {
+    "id": 371,
+    "text": "Affirmation 371"
+  },
+  {
+    "id": 372,
+    "text": "Affirmation 372"
+  },
+  {
+    "id": 373,
+    "text": "Affirmation 373"
+  },
+  {
+    "id": 374,
+    "text": "Affirmation 374"
+  },
+  {
+    "id": 375,
+    "text": "Affirmation 375"
+  },
+  {
+    "id": 376,
+    "text": "Affirmation 376"
+  },
+  {
+    "id": 377,
+    "text": "Affirmation 377"
+  },
+  {
+    "id": 378,
+    "text": "Affirmation 378"
+  },
+  {
+    "id": 379,
+    "text": "Affirmation 379"
+  },
+  {
+    "id": 380,
+    "text": "Affirmation 380"
+  },
+  {
+    "id": 381,
+    "text": "Affirmation 381"
+  },
+  {
+    "id": 382,
+    "text": "Affirmation 382"
+  },
+  {
+    "id": 383,
+    "text": "Affirmation 383"
+  },
+  {
+    "id": 384,
+    "text": "Affirmation 384"
+  },
+  {
+    "id": 385,
+    "text": "Affirmation 385"
+  },
+  {
+    "id": 386,
+    "text": "Affirmation 386"
+  },
+  {
+    "id": 387,
+    "text": "Affirmation 387"
+  },
+  {
+    "id": 388,
+    "text": "Affirmation 388"
+  },
+  {
+    "id": 389,
+    "text": "Affirmation 389"
+  },
+  {
+    "id": 390,
+    "text": "Affirmation 390"
+  },
+  {
+    "id": 391,
+    "text": "Affirmation 391"
+  },
+  {
+    "id": 392,
+    "text": "Affirmation 392"
+  },
+  {
+    "id": 393,
+    "text": "Affirmation 393"
+  },
+  {
+    "id": 394,
+    "text": "Affirmation 394"
+  },
+  {
+    "id": 395,
+    "text": "Affirmation 395"
+  },
+  {
+    "id": 396,
+    "text": "Affirmation 396"
+  },
+  {
+    "id": 397,
+    "text": "Affirmation 397"
+  },
+  {
+    "id": 398,
+    "text": "Affirmation 398"
+  },
+  {
+    "id": 399,
+    "text": "Affirmation 399"
+  },
+  {
+    "id": 400,
+    "text": "Affirmation 400"
+  },
+  {
+    "id": 401,
+    "text": "Affirmation 401"
+  },
+  {
+    "id": 402,
+    "text": "Affirmation 402"
+  },
+  {
+    "id": 403,
+    "text": "Affirmation 403"
+  },
+  {
+    "id": 404,
+    "text": "Affirmation 404"
+  },
+  {
+    "id": 405,
+    "text": "Affirmation 405"
+  },
+  {
+    "id": 406,
+    "text": "Affirmation 406"
+  },
+  {
+    "id": 407,
+    "text": "Affirmation 407"
+  },
+  {
+    "id": 408,
+    "text": "Affirmation 408"
+  },
+  {
+    "id": 409,
+    "text": "Affirmation 409"
+  },
+  {
+    "id": 410,
+    "text": "Affirmation 410"
+  },
+  {
+    "id": 411,
+    "text": "Affirmation 411"
+  },
+  {
+    "id": 412,
+    "text": "Affirmation 412"
+  },
+  {
+    "id": 413,
+    "text": "Affirmation 413"
+  },
+  {
+    "id": 414,
+    "text": "Affirmation 414"
+  },
+  {
+    "id": 415,
+    "text": "Affirmation 415"
+  },
+  {
+    "id": 416,
+    "text": "Affirmation 416"
+  },
+  {
+    "id": 417,
+    "text": "Affirmation 417"
+  },
+  {
+    "id": 418,
+    "text": "Affirmation 418"
+  },
+  {
+    "id": 419,
+    "text": "Affirmation 419"
+  },
+  {
+    "id": 420,
+    "text": "Affirmation 420"
+  },
+  {
+    "id": 421,
+    "text": "Affirmation 421"
+  },
+  {
+    "id": 422,
+    "text": "Affirmation 422"
+  },
+  {
+    "id": 423,
+    "text": "Affirmation 423"
+  },
+  {
+    "id": 424,
+    "text": "Affirmation 424"
+  },
+  {
+    "id": 425,
+    "text": "Affirmation 425"
+  },
+  {
+    "id": 426,
+    "text": "Affirmation 426"
+  },
+  {
+    "id": 427,
+    "text": "Affirmation 427"
+  },
+  {
+    "id": 428,
+    "text": "Affirmation 428"
+  },
+  {
+    "id": 429,
+    "text": "Affirmation 429"
+  },
+  {
+    "id": 430,
+    "text": "Affirmation 430"
+  },
+  {
+    "id": 431,
+    "text": "Affirmation 431"
+  },
+  {
+    "id": 432,
+    "text": "Affirmation 432"
+  },
+  {
+    "id": 433,
+    "text": "Affirmation 433"
+  },
+  {
+    "id": 434,
+    "text": "Affirmation 434"
+  },
+  {
+    "id": 435,
+    "text": "Affirmation 435"
+  },
+  {
+    "id": 436,
+    "text": "Affirmation 436"
+  },
+  {
+    "id": 437,
+    "text": "Affirmation 437"
+  },
+  {
+    "id": 438,
+    "text": "Affirmation 438"
+  },
+  {
+    "id": 439,
+    "text": "Affirmation 439"
+  },
+  {
+    "id": 440,
+    "text": "Affirmation 440"
+  },
+  {
+    "id": 441,
+    "text": "Affirmation 441"
+  },
+  {
+    "id": 442,
+    "text": "Affirmation 442"
+  },
+  {
+    "id": 443,
+    "text": "Affirmation 443"
+  },
+  {
+    "id": 444,
+    "text": "Affirmation 444"
+  },
+  {
+    "id": 445,
+    "text": "Affirmation 445"
+  },
+  {
+    "id": 446,
+    "text": "Affirmation 446"
+  },
+  {
+    "id": 447,
+    "text": "Affirmation 447"
+  },
+  {
+    "id": 448,
+    "text": "Affirmation 448"
+  },
+  {
+    "id": 449,
+    "text": "Affirmation 449"
+  },
+  {
+    "id": 450,
+    "text": "Affirmation 450"
+  },
+  {
+    "id": 451,
+    "text": "Affirmation 451"
+  },
+  {
+    "id": 452,
+    "text": "Affirmation 452"
+  },
+  {
+    "id": 453,
+    "text": "Affirmation 453"
+  },
+  {
+    "id": 454,
+    "text": "Affirmation 454"
+  },
+  {
+    "id": 455,
+    "text": "Affirmation 455"
+  },
+  {
+    "id": 456,
+    "text": "Affirmation 456"
+  },
+  {
+    "id": 457,
+    "text": "Affirmation 457"
+  },
+  {
+    "id": 458,
+    "text": "Affirmation 458"
+  },
+  {
+    "id": 459,
+    "text": "Affirmation 459"
+  },
+  {
+    "id": 460,
+    "text": "Affirmation 460"
+  },
+  {
+    "id": 461,
+    "text": "Affirmation 461"
+  },
+  {
+    "id": 462,
+    "text": "Affirmation 462"
+  },
+  {
+    "id": 463,
+    "text": "Affirmation 463"
+  },
+  {
+    "id": 464,
+    "text": "Affirmation 464"
+  },
+  {
+    "id": 465,
+    "text": "Affirmation 465"
+  },
+  {
+    "id": 466,
+    "text": "Affirmation 466"
+  },
+  {
+    "id": 467,
+    "text": "Affirmation 467"
+  },
+  {
+    "id": 468,
+    "text": "Affirmation 468"
+  },
+  {
+    "id": 469,
+    "text": "Affirmation 469"
+  },
+  {
+    "id": 470,
+    "text": "Affirmation 470"
+  },
+  {
+    "id": 471,
+    "text": "Affirmation 471"
+  },
+  {
+    "id": 472,
+    "text": "Affirmation 472"
+  },
+  {
+    "id": 473,
+    "text": "Affirmation 473"
+  },
+  {
+    "id": 474,
+    "text": "Affirmation 474"
+  },
+  {
+    "id": 475,
+    "text": "Affirmation 475"
+  },
+  {
+    "id": 476,
+    "text": "Affirmation 476"
+  },
+  {
+    "id": 477,
+    "text": "Affirmation 477"
+  },
+  {
+    "id": 478,
+    "text": "Affirmation 478"
+  },
+  {
+    "id": 479,
+    "text": "Affirmation 479"
+  },
+  {
+    "id": 480,
+    "text": "Affirmation 480"
+  },
+  {
+    "id": 481,
+    "text": "Affirmation 481"
+  },
+  {
+    "id": 482,
+    "text": "Affirmation 482"
+  },
+  {
+    "id": 483,
+    "text": "Affirmation 483"
+  },
+  {
+    "id": 484,
+    "text": "Affirmation 484"
+  },
+  {
+    "id": 485,
+    "text": "Affirmation 485"
+  },
+  {
+    "id": 486,
+    "text": "Affirmation 486"
+  },
+  {
+    "id": 487,
+    "text": "Affirmation 487"
+  },
+  {
+    "id": 488,
+    "text": "Affirmation 488"
+  },
+  {
+    "id": 489,
+    "text": "Affirmation 489"
+  },
+  {
+    "id": 490,
+    "text": "Affirmation 490"
+  },
+  {
+    "id": 491,
+    "text": "Affirmation 491"
+  },
+  {
+    "id": 492,
+    "text": "Affirmation 492"
+  },
+  {
+    "id": 493,
+    "text": "Affirmation 493"
+  },
+  {
+    "id": 494,
+    "text": "Affirmation 494"
+  },
+  {
+    "id": 495,
+    "text": "Affirmation 495"
+  },
+  {
+    "id": 496,
+    "text": "Affirmation 496"
+  },
+  {
+    "id": 497,
+    "text": "Affirmation 497"
+  },
+  {
+    "id": 498,
+    "text": "Affirmation 498"
+  },
+  {
+    "id": 499,
+    "text": "Affirmation 499"
+  },
+  {
+    "id": 500,
+    "text": "Affirmation 500"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "day": "Legs",
+    "exercises": [
+      {
+        "name": "Hip Thrust",
+        "sets": 4,
+        "reps": "12-15",
+        "machine": "Glute machine optional",
+        "visual": "hip_thrust.png",
+        "swap_options": [
+          "Glute Bridge",
+          "Cable Kickback"
+        ],
+        "remember_swap_next_week": true,
+        "notes": "Focus on squeezing glutes at top"
+      },
+      {
+        "name": "Squat",
+        "sets": 4,
+        "reps": "10-12",
+        "machine": "Smith Machine optional",
+        "visual": "squat.png",
+        "swap_options": [
+          "Goblet Squat",
+          "Leg Press"
+        ],
+        "remember_swap_next_week": true,
+        "notes": "Keep chest up, knees out"
+      }
+    ]
+  },
+  {
+    "day": "Back + Biceps",
+    "exercises": [
+      {
+        "name": "Lat Pulldown",
+        "sets": 3,
+        "reps": "12-15",
+        "machine": "Lat Pulldown",
+        "visual": "lat_pulldown.png",
+        "swap_options": [
+          "Pull-Ups",
+          "Assisted Pull-Ups"
+        ],
+        "remember_swap_next_week": true,
+        "notes": "Control the weight down slowly"
+      }
+    ]
+  }
+]
