@@ -1,24 +1,22 @@
-# Project Glow Up 🌟
+# Sneha Life Reboot — 6 Months (Expo iOS App)
 
-A sleek personal app to track workouts, motivation, playlists, and daily surprises.  
-Built to keep fitness and life fun, fresh, and motivating 💪✨
+Fully preloaded with 26 weeks of progressive workouts, 26 weeks of meal plans, 300 unique power lines, 190 affirmations, and 180 celebrations. No placeholders. Daily content rotates automatically by date — no manual steps required.
 
-## Features
-- 🎶 Spotify + YouTube playlist integration
-- 🔥 Static + "Surprise Me" workouts
-- 🎉 Daily affirmations, quotes, and surprise confetti
-- 💡 Fresh colors & rotations each week
-- 📅 Auto-refresh script (weekly updates)
+## Quick Start
+npm i
+npm start
 
-## How to Use
-- Open: [https://YOURUSERNAME.github.io/project-glow-up/](https://YOURUSERNAME.github.io/project-glow-up/)  
-- Hit **"Surprise Me"** for a fun new workout or line of motivation.  
-- Explore the playlists & daily content.  
+## Build for iOS
+npx expo prebuild
 
-## Notes
-- Content refreshes every Sunday night.  
-- To customize (add songs, workouts, or quotes), update `script.js` and push changes.
+## Data
+- src/data/workouts.json — 26 progressive weeks (deload every 4th week).
+- src/data/mealPlans.json — 26 weekly menus (vegetarian + optional eggs, paneer preferred, no oats for husband, baby finger foods).
+- src/data/quotes.json — 300 unique power lines.
+- src/data/affirmations.json — 190 affirmations.
+- src/data/celebrations.json — 180 celebration ideas.
+- src/data/courses.json — curated AI & analytics courses.
 
----
-
-👩‍💻 Built with love for motivation and glow ups ✨
+## Auto-Refresh
+- Home computes daily items by date and refreshes hourly in-app.
+- Optional: npm run refresh to pre-bake src/data/daily.json.
