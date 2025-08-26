@@ -1,0 +1,3200 @@
+[
+  {
+    "week": 1,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-8",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x8-12",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x8-12",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x8-12",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-10",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x8-12",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x12-15",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x10-12",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x8-12",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x10-14",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-10",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x8-12",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x10-15",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-13",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-13",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-13",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-13",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x13-16",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-13",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-13",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-15",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-13",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-16",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-14",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-14",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-14",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-14",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x14-17",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-14",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-14",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-16",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-14",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-17",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-7",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x7-11",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x7-11",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x7-11",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-9",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x7-11",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x11-13",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x9-11",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x7-11",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x9-12",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-9",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x7-11",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x9-13",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-8",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x8-12",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x8-12",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x8-12",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-10",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x8-12",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x12-15",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x10-12",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x8-12",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x10-14",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-10",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x8-12",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x10-15",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-13",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-13",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-13",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-13",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x13-16",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-13",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-13",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-15",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-13",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-16",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-14",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-14",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-14",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-14",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x14-17",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-14",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-14",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-16",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-14",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-17",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-7",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x7-11",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x7-11",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x7-11",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-9",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x7-11",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x11-13",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x9-11",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x7-11",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x9-12",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-9",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x7-11",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x9-13",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-8",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x8-12",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x8-12",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x8-12",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-10",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x8-12",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x12-15",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x10-12",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x8-12",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x10-14",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-10",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x8-12",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x10-15",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-13",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-13",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-13",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-13",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x13-16",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-13",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-13",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-15",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-13",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-16",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-14",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-14",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-14",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-14",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x14-17",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-14",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-14",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-16",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-14",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-17",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-7",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x7-11",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x7-11",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x7-11",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-9",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x7-11",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x11-13",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x9-11",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x7-11",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x9-12",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-9",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x7-11",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x9-13",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 13,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-8",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x8-12",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x8-12",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x8-12",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-10",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x8-12",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x12-15",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x10-12",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x8-12",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x10-14",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-10",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x8-12",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x10-15",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 14,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-13",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-13",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-13",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-13",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x13-16",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-13",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-13",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-15",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-13",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-16",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 15,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-14",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-14",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-14",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-14",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x14-17",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-14",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-14",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-16",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-14",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-17",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 16,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-7",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x7-11",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x7-11",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x7-11",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-9",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x7-11",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x11-13",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x9-11",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x7-11",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x9-12",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-9",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x7-11",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x9-13",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 17,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-8",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x8-12",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x8-12",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x8-12",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-10",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x8-12",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x12-15",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x10-12",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x8-12",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x10-14",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-10",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x8-12",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x10-15",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 18,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-13",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-13",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-13",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-13",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x13-16",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-13",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-13",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-15",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-13",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-16",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 19,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-14",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-14",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-14",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-14",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x14-17",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-14",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-14",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-16",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-14",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-17",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 20,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-7",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x7-11",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x7-11",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x7-11",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-9",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x7-11",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x11-13",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x9-11",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x7-11",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x9-12",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-9",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x7-11",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x9-13",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 21,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-8",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x8-12",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x8-12",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x8-12",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-10",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x8-12",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x12-15",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x10-12",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x8-12",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x10-14",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-10",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x8-12",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x10-15",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 22,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-13",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-13",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-13",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-13",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x13-16",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-13",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-13",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-15",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-13",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-16",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 23,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-14",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-14",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-14",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-14",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x14-17",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-14",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-14",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-16",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-14",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-17",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 24,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-7",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x7-11",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x7-11",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x7-11",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-9",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x7-11",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x11-13",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x9-11",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x7-11",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x9-12",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-9",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x7-11",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x9-13",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 25,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x5-8",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x8-12",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x8-12",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x8-12",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x6-10",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x8-12",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x12-15",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x10-12",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x8-12",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x10-14",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x6-10",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x8-12",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x10-15",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Dead Bug",
+            "sets": "3x8/side"
+          },
+          {
+            "name": "Side Plank",
+            "sets": "3x25-35s/side"
+          },
+          {
+            "name": "Glute Bridge March",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  },
+  {
+    "week": 26,
+    "note": "Deload every 4th week for recovery. Zumba-only on Mon/Wed; no add-ons.",
+    "days": [
+      {
+        "day": "Monday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Tuesday",
+        "type": "Back & Biceps",
+        "exercises": [
+          {
+            "name": "Assisted Pull-Up",
+            "sets": "3x6-9",
+            "tips": "Lower assistance over time; slow eccentric."
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": "3x9-13",
+            "tips": "Shoulders down; chest tall."
+          },
+          {
+            "name": "Seated Row",
+            "sets": "3x9-13",
+            "tips": "Squeeze shoulder blades together."
+          },
+          {
+            "name": "Incline DB Curl",
+            "sets": "3x9-13",
+            "tips": "Full range; no swinging."
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "type": "Zumba",
+        "notes": "Zumba class only. No extra workouts."
+      },
+      {
+        "day": "Thursday",
+        "type": "Chest/Shoulders/Triceps",
+        "exercises": [
+          {
+            "name": "Incline DB Press",
+            "sets": "3x7-11",
+            "tips": "Elbows ~45\u00b0, control tempo."
+          },
+          {
+            "name": "Machine Shoulder Press",
+            "sets": "3x9-13",
+            "tips": "Avoid shrugging; core braced."
+          },
+          {
+            "name": "Cable Lateral Raise",
+            "sets": "3x13-16",
+            "tips": "Light weight, high quality reps."
+          },
+          {
+            "name": "Triceps Rope Pushdown",
+            "sets": "3x11-13",
+            "tips": "Full extension, soft lockout."
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "type": "Legs (Lean Focus)",
+        "exercises": [
+          {
+            "name": "Reverse Lunge",
+            "sets": "3x9-13",
+            "tips": "Tall torso, push through front heel."
+          },
+          {
+            "name": "Leg Press (feet high-medium)",
+            "sets": "3x11-15",
+            "tips": "Control depth; avoid lockout."
+          },
+          {
+            "name": "Romanian Deadlift (DB)",
+            "sets": "3x7-11",
+            "tips": "Hinge from hips; flat back."
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": "3x9-13",
+            "tips": "Squeeze at top; stop 1\u20132 reps shy of failure."
+          },
+          {
+            "name": "Standing Calf Raise",
+            "sets": "3x11-16",
+            "tips": "Pause top/bottom for control."
+          }
+        ],
+        "customization": "Swap thrusts for bridges if sore; add sled push if available."
+      },
+      {
+        "day": "Saturday",
+        "type": "Core & Mobility (A/B alternate)",
+        "exercises": [
+          {
+            "name": "Pallof Press",
+            "sets": "3x10/side"
+          },
+          {
+            "name": "Anti-Rotation Hold",
+            "sets": "3x25s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": "3x8/side"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "type": "Active Recovery",
+        "notes": "30\u201345 min walk, gentle stretch, family play."
+      }
+    ]
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1,
+    "text": "I am becoming disciplined with compassion. (Day 1)"
+  },
+  {
+    "id": 2,
+    "text": "I show up as disciplined with compassion. (Day 2)"
+  },
+  {
+    "id": 3,
+    "text": "I am becoming stronger than yesterday. (Day 3)"
+  },
+  {
+    "id": 4,
+    "text": "I am focused and free. (Day 4)"
+  },
+  {
+    "id": 5,
+    "text": "I show up as patient with progress. (Day 5)"
+  },
+  {
+    "id": 6,
+    "text": "I am creative and courageous. (Day 6)"
+  },
+  {
+    "id": 7,
+    "text": "I show up as patient with progress. (Day 7)"
+  },
+  {
+    "id": 8,
+    "text": "Today I am calm and capable. (Day 8)"
+  },
+  {
+    "id": 9,
+    "text": "I choose to be stronger than yesterday. (Day 9)"
+  },
+  {
+    "id": 10,
+    "text": "Today I am focused and free. (Day 10)"
+  },
+  {
+    "id": 11,
+    "text": "I am gentle and consistent. (Day 11)"
+  },
+  {
+    "id": 12,
+    "text": "I am creative and courageous. (Day 12)"
+  },
+  {
+    "id": 13,
+    "text": "Today I am gentle and consistent. (Day 13)"
+  },
+  {
+    "id": 14,
+    "text": "Today I am creative and courageous. (Day 14)"
+  },
+  {
+    "id": 15,
+    "text": "I show up as disciplined with compassion. (Day 15)"
+  },
+  {
+    "id": 16,
+    "text": "I am becoming creative and courageous. (Day 16)"
+  },
+  {
+    "id": 17,
+    "text": "I am becoming calm and capable. (Day 17)"
+  },
+  {
+    "id": 18,
+    "text": "Today I am patient with progress. (Day 18)"
+  },
+  {
+    "id": 19,
+    "text": "I choose to be gentle and consistent. (Day 19)"
+  },
+  {
+    "id": 20,
+    "text": "I am becoming patient with progress. (Day 20)"
+  },
+  {
+    "id": 21,
+    "text": "I choose to be gentle and consistent. (Day 21)"
+  },
+  {
+    "id": 22,
+    "text": "I choose to be patient with progress. (Day 22)"
+  },
+  {
+    "id": 23,
+    "text": "I choose to be calm and capable. (Day 23)"
+  },
+  {
+    "id": 24,
+    "text": "I show up as disciplined with compassion. (Day 24)"
+  },
+  {
+    "id": 25,
+    "text": "Today I am disciplined with compassion. (Day 25)"
+  },
+  {
+    "id": 26,
+    "text": "I am becoming calm and capable. (Day 26)"
+  },
+  {
+    "id": 27,
+    "text": "I choose to be focused and free. (Day 27)"
+  },
+  {
+    "id": 28,
+    "text": "I am becoming disciplined with compassion. (Day 28)"
+  },
+  {
+    "id": 29,
+    "text": "I am gentle and consistent. (Day 29)"
+  },
+  {
+    "id": 30,
+    "text": "I am becoming gentle and consistent. (Day 30)"
+  },
+  {
+    "id": 31,
+    "text": "I show up as patient with progress. (Day 31)"
+  },
+  {
+    "id": 32,
+    "text": "Today I am gentle and consistent. (Day 32)"
+  },
+  {
+    "id": 33,
+    "text": "I choose to be focused and free. (Day 33)"
+  },
+  {
+    "id": 34,
+    "text": "I choose to be patient with progress. (Day 34)"
+  },
+  {
+    "id": 35,
+    "text": "I am stronger than yesterday. (Day 35)"
+  },
+  {
+    "id": 36,
+    "text": "I am becoming focused and free. (Day 36)"
+  },
+  {
+    "id": 37,
+    "text": "I show up as patient with progress. (Day 37)"
+  },
+  {
+    "id": 38,
+    "text": "I show up as focused and free. (Day 38)"
+  },
+  {
+    "id": 39,
+    "text": "I show up as focused and free. (Day 39)"
+  },
+  {
+    "id": 40,
+    "text": "Today I am disciplined with compassion. (Day 40)"
+  },
+  {
+    "id": 41,
+    "text": "I show up as patient with progress. (Day 41)"
+  },
+  {
+    "id": 42,
+    "text": "Today I am calm and capable. (Day 42)"
+  },
+  {
+    "id": 43,
+    "text": "I show up as centered and resilient. (Day 43)"
+  },
+  {
+    "id": 44,
+    "text": "Today I am focused and free. (Day 44)"
+  },
+  {
+    "id": 45,
+    "text": "I am patient with progress. (Day 45)"
+  },
+  {
+    "id": 46,
+    "text": "I choose to be calm and capable. (Day 46)"
+  },
+  {
+    "id": 47,
+    "text": "I am becoming calm and capable. (Day 47)"
+  },
+  {
+    "id": 48,
+    "text": "I choose to be disciplined with compassion. (Day 48)"
+  },
+  {
+    "id": 49,
+    "text": "Today I am disciplined with compassion. (Day 49)"
+  },
+  {
+    "id": 50,
+    "text": "I am becoming stronger than yesterday. (Day 50)"
+  },
+  {
+    "id": 51,
+    "text": "Today I am creative and courageous. (Day 51)"
+  },
+  {
+    "id": 52,
+    "text": "I show up as patient with progress. (Day 52)"
+  },
+  {
+    "id": 53,
+    "text": "I show up as centered and resilient. (Day 53)"
+  },
+  {
+    "id": 54,
+    "text": "I show up as centered and resilient. (Day 54)"
+  },
+  {
+    "id": 55,
+    "text": "I am becoming patient with progress. (Day 55)"
+  },
+  {
+    "id": 56,
+    "text": "I choose to be centered and resilient. (Day 56)"
+  },
+  {
+    "id": 57,
+    "text": "I show up as disciplined with compassion. (Day 57)"
+  },
+  {
+    "id": 58,
+    "text": "I am becoming creative and courageous. (Day 58)"
+  },
+  {
+    "id": 59,
+    "text": "Today I am calm and capable. (Day 59)"
+  },
+  {
+    "id": 60,
+    "text": "I show up as patient with progress. (Day 60)"
+  },
+  {
+    "id": 61,
+    "text": "I am becoming focused and free. (Day 61)"
+  },
+  {
+    "id": 62,
+    "text": "I am becoming patient with progress. (Day 62)"
+  },
+  {
+    "id": 63,
+    "text": "I show up as calm and capable. (Day 63)"
+  },
+  {
+    "id": 64,
+    "text": "Today I am disciplined with compassion. (Day 64)"
+  },
+  {
+    "id": 65,
+    "text": "I show up as calm and capable. (Day 65)"
+  },
+  {
+    "id": 66,
+    "text": "I choose to be centered and resilient. (Day 66)"
+  },
+  {
+    "id": 67,
+    "text": "Today I am disciplined with compassion. (Day 67)"
+  },
+  {
+    "id": 68,
+    "text": "I show up as calm and capable. (Day 68)"
+  },
+  {
+    "id": 69,
+    "text": "I choose to be focused and free. (Day 69)"
+  },
+  {
+    "id": 70,
+    "text": "Today I am stronger than yesterday. (Day 70)"
+  },
+  {
+    "id": 71,
+    "text": "I am becoming disciplined with compassion. (Day 71)"
+  },
+  {
+    "id": 72,
+    "text": "I show up as patient with progress. (Day 72)"
+  },
+  {
+    "id": 73,
+    "text": "I am gentle and consistent. (Day 73)"
+  },
+  {
+    "id": 74,
+    "text": "I choose to be focused and free. (Day 74)"
+  },
+  {
+    "id": 75,
+    "text": "Today I am calm and capable. (Day 75)"
+  },
+  {
+    "id": 76,
+    "text": "Today I am creative and courageous. (Day 76)"
+  },
+  {
+    "id": 77,
+    "text": "I am gentle and consistent. (Day 77)"
+  },
+  {
+    "id": 78,
+    "text": "I am disciplined with compassion. (Day 78)"
+  },
+  {
+    "id": 79,
+    "text": "I am stronger than yesterday. (Day 79)"
+  },
+  {
+    "id": 80,
+    "text": "I show up as focused and free. (Day 80)"
+  },
+  {
+    "id": 81,
+    "text": "Today I am focused and free. (Day 81)"
+  },
+  {
+    "id": 82,
+    "text": "I show up as disciplined with compassion. (Day 82)"
+  },
+  {
+    "id": 83,
+    "text": "I show up as gentle and consistent. (Day 83)"
+  },
+  {
+    "id": 84,
+    "text": "I show up as stronger than yesterday. (Day 84)"
+  },
+  {
+    "id": 85,
+    "text": "I show up as gentle and consistent. (Day 85)"
+  },
+  {
+    "id": 86,
+    "text": "Today I am stronger than yesterday. (Day 86)"
+  },
+  {
+    "id": 87,
+    "text": "I am focused and free. (Day 87)"
+  },
+  {
+    "id": 88,
+    "text": "I show up as centered and resilient. (Day 88)"
+  },
+  {
+    "id": 89,
+    "text": "Today I am focused and free. (Day 89)"
+  },
+  {
+    "id": 90,
+    "text": "I am focused and free. (Day 90)"
+  },
+  {
+    "id": 91,
+    "text": "I am becoming disciplined with compassion. (Day 91)"
+  },
+  {
+    "id": 92,
+    "text": "I choose to be disciplined with compassion. (Day 92)"
+  },
+  {
+    "id": 93,
+    "text": "Today I am disciplined with compassion. (Day 93)"
+  },
+  {
+    "id": 94,
+    "text": "I am becoming centered and resilient. (Day 94)"
+  },
+  {
+    "id": 95,
+    "text": "Today I am creative and courageous. (Day 95)"
+  },
+  {
+    "id": 96,
+    "text": "I show up as centered and resilient. (Day 96)"
+  },
+  {
+    "id": 97,
+    "text": "I choose to be gentle and consistent. (Day 97)"
+  },
+  {
+    "id": 98,
+    "text": "Today I am creative and courageous. (Day 98)"
+  },
+  {
+    "id": 99,
+    "text": "I choose to be creative and courageous. (Day 99)"
+  },
+  {
+    "id": 100,
+    "text": "I am centered and resilient. (Day 100)"
+  },
+  {
+    "id": 101,
+    "text": "I show up as creative and courageous. (Day 101)"
+  },
+  {
+    "id": 102,
+    "text": "I show up as stronger than yesterday. (Day 102)"
+  },
+  {
+    "id": 103,
+    "text": "I show up as calm and capable. (Day 103)"
+  },
+  {
+    "id": 104,
+    "text": "I choose to be centered and resilient. (Day 104)"
+  },
+  {
+    "id": 105,
+    "text": "I am disciplined with compassion. (Day 105)"
+  },
+  {
+    "id": 106,
+    "text": "I am disciplined with compassion. (Day 106)"
+  },
+  {
+    "id": 107,
+    "text": "I am stronger than yesterday. (Day 107)"
+  },
+  {
+    "id": 108,
+    "text": "I show up as stronger than yesterday. (Day 108)"
+  },
+  {
+    "id": 109,
+    "text": "I am disciplined with compassion. (Day 109)"
+  },
+  {
+    "id": 110,
+    "text": "I am becoming centered and resilient. (Day 110)"
+  },
+  {
+    "id": 111,
+    "text": "Today I am creative and courageous. (Day 111)"
+  },
+  {
+    "id": 112,
+    "text": "I am centered and resilient. (Day 112)"
+  },
+  {
+    "id": 113,
+    "text": "Today I am creative and courageous. (Day 113)"
+  },
+  {
+    "id": 114,
+    "text": "I am becoming disciplined with compassion. (Day 114)"
+  },
+  {
+    "id": 115,
+    "text": "Today I am calm and capable. (Day 115)"
+  },
+  {
+    "id": 116,
+    "text": "Today I am patient with progress. (Day 116)"
+  },
+  {
+    "id": 117,
+    "text": "I choose to be focused and free. (Day 117)"
+  },
+  {
+    "id": 118,
+    "text": "I choose to be patient with progress. (Day 118)"
+  },
+  {
+    "id": 119,
+    "text": "I show up as patient with progress. (Day 119)"
+  },
+  {
+    "id": 120,
+    "text": "I am disciplined with compassion. (Day 120)"
+  },
+  {
+    "id": 121,
+    "text": "I choose to be focused and free. (Day 121)"
+  },
+  {
+    "id": 122,
+    "text": "I am calm and capable. (Day 122)"
+  },
+  {
+    "id": 123,
+    "text": "I am becoming calm and capable. (Day 123)"
+  },
+  {
+    "id": 124,
+    "text": "I am becoming centered and resilient. (Day 124)"
+  },
+  {
+    "id": 125,
+    "text": "I am becoming creative and courageous. (Day 125)"
+  },
+  {
+    "id": 126,
+    "text": "I choose to be gentle and consistent. (Day 126)"
+  },
+  {
+    "id": 127,
+    "text": "Today I am creative and courageous. (Day 127)"
+  },
+  {
+    "id": 128,
+    "text": "Today I am stronger than yesterday. (Day 128)"
+  },
+  {
+    "id": 129,
+    "text": "I choose to be stronger than yesterday. (Day 129)"
+  },
+  {
+    "id": 130,
+    "text": "I am creative and courageous. (Day 130)"
+  },
+  {
+    "id": 131,
+    "text": "Today I am gentle and consistent. (Day 131)"
+  },
+  {
+    "id": 132,
+    "text": "I show up as stronger than yesterday. (Day 132)"
+  },
+  {
+    "id": 133,
+    "text": "I choose to be disciplined with compassion. (Day 133)"
+  },
+  {
+    "id": 134,
+    "text": "I am becoming disciplined with compassion. (Day 134)"
+  },
+  {
+    "id": 135,
+    "text": "I am becoming calm and capable. (Day 135)"
+  },
+  {
+    "id": 136,
+    "text": "I show up as focused and free. (Day 136)"
+  },
+  {
+    "id": 137,
+    "text": "Today I am stronger than yesterday. (Day 137)"
+  },
+  {
+    "id": 138,
+    "text": "I am disciplined with compassion. (Day 138)"
+  },
+  {
+    "id": 139,
+    "text": "I am becoming focused and free. (Day 139)"
+  },
+  {
+    "id": 140,
+    "text": "I show up as focused and free. (Day 140)"
+  },
+  {
+    "id": 141,
+    "text": "I show up as focused and free. (Day 141)"
+  },
+  {
+    "id": 142,
+    "text": "I choose to be creative and courageous. (Day 142)"
+  },
+  {
+    "id": 143,
+    "text": "I show up as patient with progress. (Day 143)"
+  },
+  {
+    "id": 144,
+    "text": "I choose to be creative and courageous. (Day 144)"
+  },
+  {
+    "id": 145,
+    "text": "Today I am centered and resilient. (Day 145)"
+  },
+  {
+    "id": 146,
+    "text": "Today I am focused and free. (Day 146)"
+  },
+  {
+    "id": 147,
+    "text": "I am becoming calm and capable. (Day 147)"
+  },
+  {
+    "id": 148,
+    "text": "I show up as focused and free. (Day 148)"
+  },
+  {
+    "id": 149,
+    "text": "I am calm and capable. (Day 149)"
+  },
+  {
+    "id": 150,
+    "text": "Today I am disciplined with compassion. (Day 150)"
+  },
+  {
+    "id": 151,
+    "text": "I am becoming gentle and consistent. (Day 151)"
+  },
+  {
+    "id": 152,
+    "text": "Today I am centered and resilient. (Day 152)"
+  },
+  {
+    "id": 153,
+    "text": "I choose to be gentle and consistent. (Day 153)"
+  },
+  {
+    "id": 154,
+    "text": "Today I am focused and free. (Day 154)"
+  },
+  {
+    "id": 155,
+    "text": "I choose to be patient with progress. (Day 155)"
+  },
+  {
+    "id": 156,
+    "text": "I am focused and free. (Day 156)"
+  },
+  {
+    "id": 157,
+    "text": "I show up as calm and capable. (Day 157)"
+  },
+  {
+    "id": 158,
+    "text": "Today I am centered and resilient. (Day 158)"
+  },
+  {
+    "id": 159,
+    "text": "I choose to be patient with progress. (Day 159)"
+  },
+  {
+    "id": 160,
+    "text": "I am becoming centered and resilient. (Day 160)"
+  },
+  {
+    "id": 161,
+    "text": "I show up as stronger than yesterday. (Day 161)"
+  },
+  {
+    "id": 162,
+    "text": "I choose to be stronger than yesterday. (Day 162)"
+  },
+  {
+    "id": 163,
+    "text": "Today I am centered and resilient. (Day 163)"
+  },
+  {
+    "id": 164,
+    "text": "Today I am focused and free. (Day 164)"
+  },
+  {
+    "id": 165,
+    "text": "I choose to be focused and free. (Day 165)"
+  },
+  {
+    "id": 166,
+    "text": "I show up as focused and free. (Day 166)"
+  },
+  {
+    "id": 167,
+    "text": "I am becoming patient with progress. (Day 167)"
+  },
+  {
+    "id": 168,
+    "text": "I show up as patient with progress. (Day 168)"
+  },
+  {
+    "id": 169,
+    "text": "I choose to be gentle and consistent. (Day 169)"
+  },
+  {
+    "id": 170,
+    "text": "I show up as centered and resilient. (Day 170)"
+  },
+  {
+    "id": 171,
+    "text": "I am creative and courageous. (Day 171)"
+  },
+  {
+    "id": 172,
+    "text": "I am focused and free. (Day 172)"
+  },
+  {
+    "id": 173,
+    "text": "Today I am patient with progress. (Day 173)"
+  },
+  {
+    "id": 174,
+    "text": "I show up as centered and resilient. (Day 174)"
+  },
+  {
+    "id": 175,
+    "text": "I am becoming creative and courageous. (Day 175)"
+  },
+  {
+    "id": 176,
+    "text": "I am becoming patient with progress. (Day 176)"
+  },
+  {
+    "id": 177,
+    "text": "I choose to be disciplined with compassion. (Day 177)"
+  },
+  {
+    "id": 178,
+    "text": "I am centered and resilient. (Day 178)"
+  },
+  {
+    "id": 179,
+    "text": "Today I am gentle and consistent. (Day 179)"
+  },
+  {
+    "id": 180,
+    "text": "I am disciplined with compassion. (Day 180)"
+  },
+  {
+    "id": 181,
+    "text": "I am becoming creative and courageous. (Day 181)"
+  },
+  {
+    "id": 182,
+    "text": "I am stronger than yesterday. (Day 182)"
+  },
+  {
+    "id": 183,
+    "text": "I am calm and capable. (Day 183)"
+  },
+  {
+    "id": 184,
+    "text": "I am becoming disciplined with compassion. (Day 184)"
+  },
+  {
+    "id": 185,
+    "text": "I am patient with progress. (Day 185)"
+  },
+  {
+    "id": 186,
+    "text": "I choose to be stronger than yesterday. (Day 186)"
+  },
+  {
+    "id": 187,
+    "text": "I show up as disciplined with compassion. (Day 187)"
+  },
+  {
+    "id": 188,
+    "text": "I am becoming creative and courageous. (Day 188)"
+  },
+  {
+    "id": 189,
+    "text": "Today I am stronger than yesterday. (Day 189)"
+  },
+  {
+    "id": 190,
+    "text": "I show up as patient with progress. (Day 190)"
+  }
+]

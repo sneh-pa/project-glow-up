@@ -1,0 +1,2394 @@
+[
+  {
+    "week": 1,
+    "adult": {
+      "monday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "tuesday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "wednesday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "thursday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "friday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "saturday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "sunday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "tuesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ],
+      "wednesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Tofu/paneer cubes",
+        "Steamed peas"
+      ],
+      "thursday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Chickpeas (smashed)",
+        "Broccoli florets"
+      ],
+      "friday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Lentil patties",
+        "Cucumber sticks"
+      ],
+      "saturday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "sunday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 2,
+    "adult": {
+      "monday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "tuesday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "wednesday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "thursday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "friday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "saturday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "sunday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "tuesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ],
+      "wednesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Lentil patties",
+        "Mango slices"
+      ],
+      "thursday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Soft cheese cubes",
+        "Blueberries (halved)"
+      ],
+      "friday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Moong chilla strips",
+        "Steamed peas"
+      ],
+      "saturday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "sunday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 3,
+    "adult": {
+      "monday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "tuesday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "wednesday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "thursday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "friday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "saturday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "sunday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "tuesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ],
+      "wednesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Moong chilla strips",
+        "Broccoli florets"
+      ],
+      "thursday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Tofu/paneer cubes",
+        "Cucumber sticks"
+      ],
+      "friday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Chickpeas (smashed)",
+        "Mango slices"
+      ],
+      "saturday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "sunday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 4,
+    "adult": {
+      "monday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "tuesday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "wednesday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "thursday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "friday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "saturday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "sunday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "tuesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ],
+      "wednesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Chickpeas (smashed)",
+        "Blueberries (halved)"
+      ],
+      "thursday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Lentil patties",
+        "Steamed peas"
+      ],
+      "friday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Soft cheese cubes",
+        "Broccoli florets"
+      ],
+      "saturday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "sunday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 5,
+    "adult": {
+      "monday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "tuesday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "wednesday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "thursday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "friday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "saturday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "sunday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "tuesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ],
+      "wednesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Soft cheese cubes",
+        "Cucumber sticks"
+      ],
+      "thursday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Moong chilla strips",
+        "Mango slices"
+      ],
+      "friday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Tofu/paneer cubes",
+        "Blueberries (halved)"
+      ],
+      "saturday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "sunday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 6,
+    "adult": {
+      "monday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "tuesday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "wednesday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "thursday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "friday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "saturday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "sunday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "tuesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ],
+      "wednesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Tofu/paneer cubes",
+        "Steamed peas"
+      ],
+      "thursday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Chickpeas (smashed)",
+        "Broccoli florets"
+      ],
+      "friday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Lentil patties",
+        "Cucumber sticks"
+      ],
+      "saturday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "sunday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 7,
+    "adult": {
+      "monday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "tuesday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "wednesday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "thursday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "friday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "saturday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "sunday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "tuesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ],
+      "wednesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Lentil patties",
+        "Mango slices"
+      ],
+      "thursday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Soft cheese cubes",
+        "Blueberries (halved)"
+      ],
+      "friday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Moong chilla strips",
+        "Steamed peas"
+      ],
+      "saturday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "sunday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 8,
+    "adult": {
+      "monday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "tuesday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "wednesday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "thursday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "friday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "saturday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "sunday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "tuesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ],
+      "wednesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Moong chilla strips",
+        "Broccoli florets"
+      ],
+      "thursday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Tofu/paneer cubes",
+        "Cucumber sticks"
+      ],
+      "friday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Chickpeas (smashed)",
+        "Mango slices"
+      ],
+      "saturday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "sunday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 9,
+    "adult": {
+      "monday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "tuesday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "wednesday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "thursday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "friday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "saturday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "sunday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "tuesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ],
+      "wednesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Chickpeas (smashed)",
+        "Blueberries (halved)"
+      ],
+      "thursday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Lentil patties",
+        "Steamed peas"
+      ],
+      "friday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Soft cheese cubes",
+        "Broccoli florets"
+      ],
+      "saturday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "sunday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 10,
+    "adult": {
+      "monday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "tuesday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "wednesday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "thursday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "friday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "saturday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "sunday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "tuesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ],
+      "wednesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Soft cheese cubes",
+        "Cucumber sticks"
+      ],
+      "thursday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Moong chilla strips",
+        "Mango slices"
+      ],
+      "friday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Tofu/paneer cubes",
+        "Blueberries (halved)"
+      ],
+      "saturday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "sunday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 11,
+    "adult": {
+      "monday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "tuesday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "wednesday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "thursday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "friday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "saturday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "sunday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "tuesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ],
+      "wednesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Tofu/paneer cubes",
+        "Steamed peas"
+      ],
+      "thursday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Chickpeas (smashed)",
+        "Broccoli florets"
+      ],
+      "friday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Lentil patties",
+        "Cucumber sticks"
+      ],
+      "saturday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "sunday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 12,
+    "adult": {
+      "monday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "tuesday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "wednesday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "thursday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "friday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "saturday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "sunday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "tuesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ],
+      "wednesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Lentil patties",
+        "Mango slices"
+      ],
+      "thursday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Soft cheese cubes",
+        "Blueberries (halved)"
+      ],
+      "friday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Moong chilla strips",
+        "Steamed peas"
+      ],
+      "saturday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "sunday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 13,
+    "adult": {
+      "monday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "tuesday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "wednesday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "thursday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "friday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "saturday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "sunday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "tuesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ],
+      "wednesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Moong chilla strips",
+        "Broccoli florets"
+      ],
+      "thursday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Tofu/paneer cubes",
+        "Cucumber sticks"
+      ],
+      "friday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Chickpeas (smashed)",
+        "Mango slices"
+      ],
+      "saturday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "sunday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 14,
+    "adult": {
+      "monday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "tuesday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "wednesday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "thursday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "friday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "saturday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "sunday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "tuesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ],
+      "wednesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Chickpeas (smashed)",
+        "Blueberries (halved)"
+      ],
+      "thursday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Lentil patties",
+        "Steamed peas"
+      ],
+      "friday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Soft cheese cubes",
+        "Broccoli florets"
+      ],
+      "saturday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "sunday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 15,
+    "adult": {
+      "monday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "tuesday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "wednesday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "thursday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "friday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "saturday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "sunday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "tuesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ],
+      "wednesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Soft cheese cubes",
+        "Cucumber sticks"
+      ],
+      "thursday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Moong chilla strips",
+        "Mango slices"
+      ],
+      "friday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Tofu/paneer cubes",
+        "Blueberries (halved)"
+      ],
+      "saturday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "sunday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 16,
+    "adult": {
+      "monday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "tuesday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "wednesday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "thursday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "friday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "saturday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "sunday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "tuesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ],
+      "wednesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Tofu/paneer cubes",
+        "Steamed peas"
+      ],
+      "thursday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Chickpeas (smashed)",
+        "Broccoli florets"
+      ],
+      "friday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Lentil patties",
+        "Cucumber sticks"
+      ],
+      "saturday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "sunday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 17,
+    "adult": {
+      "monday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "tuesday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "wednesday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "thursday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "friday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "saturday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "sunday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "tuesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ],
+      "wednesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Lentil patties",
+        "Mango slices"
+      ],
+      "thursday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Soft cheese cubes",
+        "Blueberries (halved)"
+      ],
+      "friday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Moong chilla strips",
+        "Steamed peas"
+      ],
+      "saturday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "sunday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 18,
+    "adult": {
+      "monday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "tuesday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "wednesday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "thursday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "friday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "saturday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "sunday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "tuesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ],
+      "wednesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Moong chilla strips",
+        "Broccoli florets"
+      ],
+      "thursday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Tofu/paneer cubes",
+        "Cucumber sticks"
+      ],
+      "friday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Chickpeas (smashed)",
+        "Mango slices"
+      ],
+      "saturday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "sunday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 19,
+    "adult": {
+      "monday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "tuesday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "wednesday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "thursday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "friday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "saturday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "sunday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "tuesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ],
+      "wednesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Chickpeas (smashed)",
+        "Blueberries (halved)"
+      ],
+      "thursday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Lentil patties",
+        "Steamed peas"
+      ],
+      "friday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Soft cheese cubes",
+        "Broccoli florets"
+      ],
+      "saturday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "sunday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 20,
+    "adult": {
+      "monday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "tuesday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "wednesday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "thursday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "friday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "saturday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "sunday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "tuesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ],
+      "wednesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Soft cheese cubes",
+        "Cucumber sticks"
+      ],
+      "thursday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Moong chilla strips",
+        "Mango slices"
+      ],
+      "friday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Tofu/paneer cubes",
+        "Blueberries (halved)"
+      ],
+      "saturday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "sunday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 21,
+    "adult": {
+      "monday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "tuesday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "wednesday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "thursday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "friday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "saturday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "sunday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "tuesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ],
+      "wednesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Tofu/paneer cubes",
+        "Steamed peas"
+      ],
+      "thursday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Chickpeas (smashed)",
+        "Broccoli florets"
+      ],
+      "friday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Lentil patties",
+        "Cucumber sticks"
+      ],
+      "saturday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "sunday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 22,
+    "adult": {
+      "monday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "tuesday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "wednesday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "thursday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "friday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "saturday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "sunday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "tuesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ],
+      "wednesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Lentil patties",
+        "Mango slices"
+      ],
+      "thursday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Soft cheese cubes",
+        "Blueberries (halved)"
+      ],
+      "friday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Moong chilla strips",
+        "Steamed peas"
+      ],
+      "saturday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Tofu/paneer cubes",
+        "Broccoli florets"
+      ],
+      "sunday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Chickpeas (smashed)",
+        "Cucumber sticks"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 23,
+    "adult": {
+      "monday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "tuesday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "wednesday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "thursday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "friday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "saturday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "sunday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "tuesday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ],
+      "wednesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Moong chilla strips",
+        "Broccoli florets"
+      ],
+      "thursday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Tofu/paneer cubes",
+        "Cucumber sticks"
+      ],
+      "friday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Chickpeas (smashed)",
+        "Mango slices"
+      ],
+      "saturday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Lentil patties",
+        "Blueberries (halved)"
+      ],
+      "sunday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Soft cheese cubes",
+        "Steamed peas"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 24,
+    "adult": {
+      "monday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "tuesday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "wednesday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "thursday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "friday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "saturday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "sunday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "tuesday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ],
+      "wednesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Chickpeas (smashed)",
+        "Blueberries (halved)"
+      ],
+      "thursday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Lentil patties",
+        "Steamed peas"
+      ],
+      "friday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Soft cheese cubes",
+        "Broccoli florets"
+      ],
+      "saturday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Moong chilla strips",
+        "Cucumber sticks"
+      ],
+      "sunday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Tofu/paneer cubes",
+        "Mango slices"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 25,
+    "adult": {
+      "monday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      },
+      "tuesday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "wednesday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "thursday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "friday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "saturday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "sunday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "tuesday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ],
+      "wednesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Soft cheese cubes",
+        "Cucumber sticks"
+      ],
+      "thursday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Moong chilla strips",
+        "Mango slices"
+      ],
+      "friday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Tofu/paneer cubes",
+        "Blueberries (halved)"
+      ],
+      "saturday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Chickpeas (smashed)",
+        "Steamed peas"
+      ],
+      "sunday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Lentil patties",
+        "Broccoli florets"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  },
+  {
+    "week": 26,
+    "adult": {
+      "monday": {
+        "breakfast": "Veg upma (no oats)",
+        "lunch": "Pulao with peas + soy chunks",
+        "dinner": "Vegetable stew + appam",
+        "snacks": "Kefir or lassi"
+      },
+      "tuesday": {
+        "breakfast": "Veggie masala omelet (optional egg)",
+        "lunch": "Curd rice with tempering (fermented)",
+        "dinner": "Veg biryani + raita",
+        "snacks": "Cheese + cucumber"
+      },
+      "wednesday": {
+        "breakfast": "Spinach roti + paneer bhurji",
+        "lunch": "Millet khichdi with veggies",
+        "dinner": "Palak paneer + multigrain roti",
+        "snacks": "Yogurt with chia + fruit"
+      },
+      "thursday": {
+        "breakfast": "Besan chilla with veggies",
+        "lunch": "Quinoa\u2013bean salad",
+        "dinner": "Veg korma + millet rotis",
+        "snacks": "Roasted makhana + nuts"
+      },
+      "friday": {
+        "breakfast": "Idli + sambar (fermented)",
+        "lunch": "Lentil soup + sourdough",
+        "dinner": "Dosa + sambar + podi",
+        "snacks": "Dates + walnuts"
+      },
+      "saturday": {
+        "breakfast": "Moong dal chilla + chutney",
+        "lunch": "Rajma + jeera rice",
+        "dinner": "Chana masala + brown rice",
+        "snacks": "Buttermilk + trail mix"
+      },
+      "sunday": {
+        "breakfast": "Paneer paratha (light oil)",
+        "lunch": "Hummus + veggie wraps",
+        "dinner": "Tofu/paneer stir-fry (paneer preferred)",
+        "snacks": "Fruit + seeds mix"
+      }
+    },
+    "baby_finger_foods": {
+      "monday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "tuesday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ],
+      "wednesday": [
+        "Banana slices",
+        "Mini veggie wraps",
+        "Tofu/paneer cubes",
+        "Steamed peas"
+      ],
+      "thursday": [
+        "Steamed apple sticks",
+        "Dosa strips",
+        "Chickpeas (smashed)",
+        "Broccoli florets"
+      ],
+      "friday": [
+        "Soft paneer cubes",
+        "Idli fingers",
+        "Lentil patties",
+        "Cucumber sticks"
+      ],
+      "saturday": [
+        "Boiled potato wedges",
+        "Rice balls",
+        "Soft cheese cubes",
+        "Mango slices"
+      ],
+      "sunday": [
+        "Steamed carrot sticks",
+        "Spinach roti strips",
+        "Moong chilla strips",
+        "Blueberries (halved)"
+      ]
+    },
+    "husband_prefs": "Avoid oats; increase protein via paneer, lentils, beans; keep meals hearty."
+  }
+]

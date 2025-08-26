@@ -1,0 +1,37 @@
+[
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "platform": "DeepLearning.AI",
+    "cost": "Free"
+  },
+  {
+    "title": "Practical Deep Learning for Coders",
+    "platform": "fast.ai",
+    "cost": "Free"
+  },
+  {
+    "title": "Generative AI with LLMs",
+    "platform": "Coursera (DeepLearning.AI)",
+    "cost": "Paid"
+  },
+  {
+    "title": "Data Analysis with Python",
+    "platform": "freeCodeCamp",
+    "cost": "Free"
+  },
+  {
+    "title": "Introduction to Agile and Scrum",
+    "platform": "Coursera",
+    "cost": "Paid"
+  },
+  {
+    "title": "Product Management & AI",
+    "platform": "Udemy",
+    "cost": "Paid"
+  },
+  {
+    "title": "SQL for Data Analysis",
+    "platform": "Mode / freeCodeCamp",
+    "cost": "Free"
+  }
+]
